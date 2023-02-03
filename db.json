@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "speak fluent arabic",
+      "day": "in one year from now",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "to become stronger",
+      "day": "now",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "to be the best",
+      "day": "now",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "eldar",
+      "day": "asd",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
